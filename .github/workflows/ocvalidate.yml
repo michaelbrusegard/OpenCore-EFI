@@ -9,7 +9,7 @@ on:
       - '**.auth'
       - '**.gitignore'
 jobs:
-  test-configs:
+  validate-config:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v3
