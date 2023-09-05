@@ -8,6 +8,7 @@ on:
       - '**.yml'
       - '**.auth'
       - '**.gitignore'
+  workflow_dispatch:
 jobs:
   test-configs:
     runs-on: macos-latest
