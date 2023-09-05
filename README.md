@@ -1,5 +1,6 @@
 # OpenCore-EFI for ASUS ROG (X570) Crosshair VIII Impact
 
+![About This Mac](https://github.com/michaelbrusegard/OpenCore-EFI/assets/56915010/1a423a28-e9a6-47e7-93c5-50da65e68e95) \
 **Current macOS version:** 13.5.1 (22G90) \
 **Current OpenCore version:** 0.9.4
 
@@ -92,7 +93,7 @@
 - [benbaker76](https://github.com/benbaker76) for Hackintool
 - [Shanee](https://github.com/Shaneee) for patches for AMD CPUs and work on AppleIGB.kext which I didn't use here.
 - [Trulyspinach](https://github.com/trulyspinach) for Ryzen power management and monitoring kexts
-- [XLNC](https://github.com/naveenkrdy) for patches for AMD CPUs, AppleMCEReportedDisabler kext and a bunch of troubleshooting help!
+- [XLNC](https://github.com/naveenkrdy) for patches for AMD CPUs, AppleMCEReportedDisabler kext, updated portmap and a bunch of troubleshooting help!
 - [Pavo](https://github.com/Pavo-IM) for research about AppleMCEReportedDisabler in Monterey
 - [CorpNewt](https://github.com/corpnewt) for SSDTTime and USBMap
 - [OpenIntelWireless developers](https://github.com/OpenIntelWireless) for AirportItlwm and IntelBluetoothFirmware kexts
