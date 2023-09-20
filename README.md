@@ -1,7 +1,7 @@
 # OpenCore-EFI for ASUS ROG (X570) Crosshair VIII Impact
 
 ![About This Mac](https://github.com/michaelbrusegard/OpenCore-EFI/assets/56915010/1a423a28-e9a6-47e7-93c5-50da65e68e95) \
-**Current macOS version:** 13.5.1 (22G90) \
+**Current macOS version:** 13.5.2 (22G91) \
 **Current OpenCore version:** 0.9.4
 
 ## System Information
